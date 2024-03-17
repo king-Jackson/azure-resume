@@ -16,6 +16,14 @@
     - Next, I created a photos folder for later use.
     - Finally, I added a CSS file in order to provide some styling for later steps of the project.
 
+## Homepage outline
+- In order to showcase certifications, I have uploaded images of the certifications for future use.
+- A dedicated page for projects has been established, recognizing the primary objective of this website to showcase projects.
+- The CSS page has been successfully linked to the main page, with a background color applied to ensure proper functionality.
+- Preliminary sections for the main page have been outlined, encompassing key components such as the about me, social media links, educational background, professional history, and contact details.
+- I used several resources throughout this step, most noteably: [mdm web docs](https://developer.mozilla.org/en-US/docs/Learn), [w3schools](https://www.w3schools.com/) and **Dr. Angela Yu's** [Udemy course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on becoming a full stack developer.
+
+
 
 
 

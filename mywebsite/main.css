@@ -1,0 +1,5 @@
+/*Testing that css document is properly linked by adding a background color. */
+
+body {
+    background-color:#1F80A6;
+}
