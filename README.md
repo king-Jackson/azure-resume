@@ -1,5 +1,5 @@
 # azure-resume
-My Azure resume - following Microsoft's Official documentation for hosting a static website on blob storage.
+**My Azure resume - following Microsoft's Official documentation for hosting a static website on blob storage.**
 
  The purpose of this resume is to display cybersecurity related projects. As best practice, I will be documenting the developement of the website, however this is not a project intended to display web development skills. 
 
@@ -12,9 +12,9 @@ My Azure resume - following Microsoft's Official documentation for hosting a sta
 ## Hosting the website on Azure using blob storage
 
 - I followed Microsoft's tutorial on [hosting a static website on blob storage](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-host) in order to get started.
-- First I created a storage account, enabled static web hosting, then created and specified the default and error pages.
-- Next, I created a photos folder for later use.
-- Finally, I added a CSS file in order to provide some styling for later steps of the project.
+    - First I created a storage account, enabled static web hosting, then created and specified the default and error pages.
+    - Next, I created a photos folder for later use.
+    - Finally, I added a CSS file in order to provide some styling for later steps of the project.
 
 
 
